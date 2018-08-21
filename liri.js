@@ -74,9 +74,13 @@ function myTweets() {
 
 		// loops through the returned tweets object and console.logs the most recent 20 tweets and when they were tweeted.
 		for (let i = 0; i < 20; i++) {
-			console.log(tweets[i].text + "\nTweeted on: " + tweets[i].created_at + "\n---------------\n")
+			console.log(tweets[i].text + 
+				"\nTweeted on: " + tweets[i].created_at + 
+				"\n---------------\n")
 
-			fs.appendFile("log.txt", tweets[i].text + "\nTweeted on: " + tweets[i].created_at + "\n---------------\n", function (err) {
+			fs.appendFile("log.txt", tweets[i].text + 
+			"\nTweeted on: " + tweets[i].created_at + 
+			"\n---------------\n", function (err) {
 
 				if (err) {
 					console.log(err)
