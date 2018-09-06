@@ -6,8 +6,8 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 
 ## Screen Shots
 
-![](image/liri-node-app.gif)
-App Demo
+![App Demo](image/liri-node-app.gif)
+
 
 ## Technologies used
 - Node.js
