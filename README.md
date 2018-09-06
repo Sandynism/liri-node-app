@@ -19,4 +19,4 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 
 ## Authors
 
-* **Sandy Yeung** - *HTML/JS/Node.js* - [Sandy Yeung](https://github.com/Sandynism)
+* **Sandy Yeung** - *JS/Node.js* - [Sandy Yeung](https://github.com/Sandynism)
