@@ -7,7 +7,7 @@ LIRI is a _Language_ Interpretation and Recognition Interface. LIRI is a command
 
 
 ## Technologies used
-- Node.js
+- Node.js - Download the latest version of Node https://nodejs.org/en/
 - twitter NPM Package - https://www.npmjs.com/package/twitter
 - tumblr NPM Package - https://www.npmjs.com/package/tumblr
 - spotify NPM Package - https://www.npmjs.com/package/node-spotify-api
